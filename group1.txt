@@ -1,9 +1,10 @@
 include
 file1
-//file2 //bug
+file2 
 file3
 file4
 file5
 
 func 1
 func 2
+func 3
