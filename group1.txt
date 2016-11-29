@@ -8,3 +8,6 @@ file5
 func 1
 func 2
 func 3
+func 4
+func 5
+func 6
